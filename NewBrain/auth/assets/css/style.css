@@ -8327,7 +8327,7 @@ body {
 }
 
 #header-content .hotel {
-  /* background: url(../img/bg_hotel.png) center center; */
+  background: url(/auth/assets/img/bg_hotel.png) center center;
   height: 180px;
   width: 580px;
   float: left;
@@ -9688,7 +9688,7 @@ input[type=text]::placeholder, input[type=email]::placeholder, input[type=passwo
 }
 
 .credits {
-	background-image: url(/auth/website/img/credit.gif);
+	background-image: url(/auth/assets/img/credit.gif);
 }
 
 .pixels {

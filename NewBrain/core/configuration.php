@@ -20,22 +20,11 @@
 	$hotel['staffCheckClient'] = false; //Enable the staff pin in the client (true) or disable it (false)
 	$hotel['staffCheckClientMinimumRank'] = 3; //Minium staff rank to get the staff pin in the client
 	$hotel['homeRoom'] = '0'; //Set the start room when you get in the hotel
-	$hotel['external_Variables'] = "http://127.0.0.1/swf/gamedata/external_variables.txt?v=7";
-	$hotel['external_Variables_Override'] = "http://127.0.0.1/swf/gamedata/override/external_override_variables.txt?v=6";
-	$hotel['external_Texts'] = "http://127.0.0.1/swf/gamedata/external_flash_texts.txt";
-	$hotel['external_Texts_Override'] = "http://127.0.0.1/swf/gamedata/override/external_flash_override_texts.txt";
-	$hotel['productdata'] = "http://127.0.0.1/swf/gamedata/productdata.txt";
-	$hotel['furnidata'] = "http://127.0.0.1/swf/gamedata/furnidata.xml";
-	$hotel['figuremap'] = "http://127.0.0.1/swf/gamedata/figuremap.xml";
-	$hotel['figuredata'] = "http://127.0.0.1/swf/gamedata/figuredata.xml";
-	$hotel['swfFolder'] = "http://127.0.0.1/swf/gordon/PRODUCTION-201701242205-837386173";
-	$hotel['swfFolderSwf'] = "http://127.0.0.1/swf/gordon/PRODUCTION-201701242205-837386173/habbo2.swf";
 	$hotel['onlineCounter'] = true; // Enable the user count in the client.
 	$hotel['diamonds.enabled'] = true; // Enable diamonds in the hotel.
 	
 	/* Website Setting */
 	$config['hotelUrl'] = "";//Address of your hotel. Does not end with a "/"
-	$config['skin'] = "website"; //Skin/template of your website
 	$config['lang'] = "en"; //Language of your website en/nl/es
 	$config['hotelName'] = "NewBrain"; //Name of your hotel
 	$config['favicon'] = "https://yadahotel.nl/favicon.ico";
@@ -43,8 +32,6 @@
 	$config['staffCheckHkMinimumRank'] = 3; //Minium staff rank to get the staff pin in the housekeeping
 	$config['maintenance'] = false; //Enable the maintenance of your website (true) or disable it (false)
 	$config['maintenancekMinimumRankLogin'] = 3; //Minium staff rank to login when the website is in maintenance
-	$config['groupBadgeURL'] = "http://127.0.0.1/swf/habbo-imaging/badge.php?badge=";
-	$config['badgeURL'] = "http://127.0.0.1/swf/c_images/album1584/"; 
 	$config['userLikeEnable'] = true; // Enable user likes 
 	$config['newsCommandEnable'] = true; //Enable news commands
 	$config['newsCommandFilter'] = true; //Enable wordfilter on news commands (the filter use the db tabels wordfilter and wordfilter_characters)

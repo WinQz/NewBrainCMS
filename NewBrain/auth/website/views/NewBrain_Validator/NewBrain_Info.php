@@ -22,6 +22,9 @@ include_once $config['routeUrl'] . $config['routeUrlAuth'] . $config['routeUrlWe
 					<b>New Brain</b> is a completely new re-constructed template from Sonay. <br>The Brain backend is also largely rewritten by means of optimized code!<br><hr><h2>Heads UP!!!</h2>We do not have any desire to create a hotel and start a community. We just want to keep things up-to date.
 					<br>
 					<br>
+					<a href="https://github.com/SatisfactionEntity/NewBrainCMS">NewBrainCMS v1</a> now on github for testing.
+					<br>
+					<br>
 					<span style="color: yellow;">NewBrain doesn't use the default Brain File Structure.<br> It does use its custom <b>Routing System</b> to include the files and load the pages.</span>
 					<hr><h1>The New-Brain Team,</h1>
 					<p>

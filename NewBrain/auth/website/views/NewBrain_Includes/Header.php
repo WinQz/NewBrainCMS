@@ -2,7 +2,7 @@
 <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
 <script src="auth/assets/js/load/JQueryLoad.js"> </script>
 <meta charset="utf-8">
-<link type="text/css" href="/auth/assets/css/style.css?v=14" rel="stylesheet">
+<link type="text/css" href="/auth/assets/css/style.css?v=18" rel="stylesheet">
 <link type="text/css" href="/auth/assets/css/settings.css?v=2" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">

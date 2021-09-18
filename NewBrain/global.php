@@ -9,7 +9,7 @@ if(!defined('BRAIN_CMS'))
 	session_start();
 	ob_start();
 	define('Z', $_SERVER['DOCUMENT_ROOT'].'/');
-	define('A', Z . 'system/');
+	define('A', Z . 'core/');
 	define('B', 'app/');
 	define('C', 'classes/');
 	define('E', 'languages/');
@@ -18,7 +18,7 @@ if(!defined('BRAIN_CMS'))
 	define('I', 'maintenance/');
 	define('J', Z . 'adminpan/');
 	define('K', 'plugins/');
-	require_once A . '/brain-config.php';
+	require_once A . '/configuration.php';
 	require_once A . E . '/'.$config['lang'].'.php';
 	require_once A . B . C . '/functions.php';
 	require_once A . B . C . '/class.game.php';
@@ -27,5 +27,4 @@ if(!defined('BRAIN_CMS'))
 	require_once A . B . C . '/class.admin.php';
 	require_once A . B . C . '/class.db.php';
 	require_once A . B . C . '/class.betterphp.php';
-	define('S', $config['skin']);
 	Html::loadPlugins();

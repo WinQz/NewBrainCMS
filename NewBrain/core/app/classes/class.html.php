@@ -127,7 +127,7 @@
 				else 
 				{
 					include A . H . S . '/pages/index.php';
-					header('Location: '.$config['hotelUrl'].'/index');
+					header('Location: '.$config['hotelUrl'].'/Index');
 				}
 			}
 			if(loggedIn()){ 
@@ -135,14 +135,14 @@
 				{
 					case "index":
 					case "register":
-					header('Location: '.$config['hotelUrl'].'/me');
+					header('Location: '.$config['hotelUrl'].'/Me');
 					break;
 					case "changename";
 					if ($config['facebookLogin'] == true)
 					{
 						if (User::userData('fbenable') >= 1)
 						{
-							header('Location: '.$config['hotelUrl'].'/me');	
+							header('Location: '.$config['hotelUrl'].'/Me');	
 							exit();
 						}
 					}
