@@ -16,7 +16,7 @@
  
 # Screenshots
  Index
-<img src="https://raw.githubusercontent.com/SatisfactionEntity/NewBrainCMS/main/screenshots/ss1.png?token=AJ7P54KFIGKSZLRFEGTSWBTBIXRB2"><br>
+<img src="https://raw.githubusercontent.com/SatisfactionEntity/NewBrainCMS/main/screenshots/ss1.png?token=AJ7P54LRPQJAIHIB3JRSUQDBIXRXY"><br>
  Login
 <img src="https://raw.githubusercontent.com/SatisfactionEntity/NewBrainCMS/main/screenshots/ss2.png?token=AJ7P54PMYBFBZ55OVJ4UQXLBIXRFW"><br>
  Settings 
