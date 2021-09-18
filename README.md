@@ -16,8 +16,8 @@
  
 # Screenshots
  Index
-<img src="https://raw.githubusercontent.com/SatisfactionEntity/NewBrainCMS/main/screenshots/ss1.png?token=AJ7P54LRPQJAIHIB3JRSUQDBIXRXY"><br>
+<img src="https://github.com/SatisfactionEntity/NewBrainCMS/blob/main/screenshots/ss1.png"><br>
  Login
-<img src="https://raw.githubusercontent.com/SatisfactionEntity/NewBrainCMS/main/screenshots/ss2.png?token=AJ7P54PMYBFBZ55OVJ4UQXLBIXRFW"><br>
+<img src="https://github.com/SatisfactionEntity/NewBrainCMS/blob/main/screenshots/ss2.png"><br>
  Settings 
-<img src="https://raw.githubusercontent.com/SatisfactionEntity/NewBrainCMS/main/screenshots/ss3.png?token=AJ7P54POJJDJEVAXYLUWLADBIXRII">
+<img src="https://github.com/SatisfactionEntity/NewBrainCMS/blob/main/screenshots/ss3.png">
